@@ -4,5 +4,5 @@ Este repositório serve como um recurso abrangente que hospeda o código-fonte p
 - Eduardo Diniz Mio @EduMio : C++
 - Guilherme Barboza Mendonça @guilhermegbm : Java
 - Kael Soares Augusto @Dwctor : Rust
-- Lucas Xavier Veneroso : C
+- Lucas Xavier Veneroso @LucasXavierVeneroso : C
 - Rodrigo Ferreira Araújo @RdgFerreira : Javascript
